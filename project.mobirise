@@ -36,7 +36,8 @@
     "siteFonts": [],
     "siteUrl": "undefined",
     "google-analytics": "",
-    "imageResize": true
+    "imageResize": true,
+    "publishChangesOnly": true
   },
   "pages": {
     "index.html": {
@@ -306,8 +307,8 @@
               "color": "#787879"
             },
             ".iconbox": {
-              "background-color": "#ffffff",
-              "border-color": "#ffffff"
+              "background-color": "#efefef",
+              "border-color": "#efefef"
             }
           },
           "_params": {
@@ -316,7 +317,7 @@
             "showSubtitles": false,
             "ShowTexts": false,
             "showButtons": false,
-            "iconsBgColor": "#ffffff",
+            "iconsBgColor": "#efefef",
             "paddingTop": "0",
             "paddingBottom": "0",
             "columns": "4",
@@ -571,8 +572,8 @@
               "color": "#787879"
             },
             ".iconbox": {
-              "background-color": "#f2f2f2",
-              "border-color": "#f2f2f2"
+              "background-color": "#efefef",
+              "border-color": "#efefef"
             }
           },
           "_params": {
@@ -581,7 +582,7 @@
             "showSubtitles": false,
             "ShowTexts": false,
             "showButtons": false,
-            "iconsBgColor": "#f2f2f2",
+            "iconsBgColor": "#efefef",
             "paddingTop": "1",
             "paddingBottom": "1",
             "columns": "5",
