@@ -144,7 +144,7 @@
             "showArrow": true,
             "contentAlign": "center",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/handshake-1280x960.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/handshake-3-1920x1272.jpeg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#a07e49",
